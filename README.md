@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on improving my Skills
 - 🌱 I’m currently learning more about Python
 - 🔭 I’m currently working on improving my Skills
+- 📫 How to reach me shreayansh.jaiswal_ccv17@gla.ac.in
 <!-- - ⚡ Fun fact: ... -->
 
 ### Connect with me:
