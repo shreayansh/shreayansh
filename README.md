@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on improving my Skills
 - 🌱 I’m currently learning more about Python
+- 🔭 I’m currently working on improving my Skills
 <!-- - ⚡ Fun fact: ... -->
 
 ### Connect with me:
