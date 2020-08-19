@@ -6,6 +6,9 @@
 
 - 🔭 I’m currently working on improving my Skills
 - 🌱 I’m currently learning more about Python
+- 🤔 I’m looking for help with learning anything new!
+- 👯 I’m looking to collaborate on Machine Learning,
+      Deep Learning and Full Stack Projects
 <!-- - ⚡ Fun fact: ... -->
 
 ### Connect with me:
